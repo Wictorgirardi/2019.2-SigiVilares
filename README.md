@@ -17,6 +17,6 @@ Este repositório é destinado a aplicação [**Blog do Sigi Vilares**](https://
 
 <hr/>
 <p align="center"><b>Grupo 5</b></p>
-<p align="center">Requisitos de <i>Software</i><br /><br />
+<p align="center"><i>Interação Humano Computador</i><br /><br />
 <a href="https://fga.unb.br" target="_blank"><img width="230"src="https://4.bp.blogspot.com/-0aa6fAFnSnA/VzICtBQgciI/AAAAAAAARn4/SxVsQPFNeE0fxkCPVgMWbhd5qIEAYCMbwCLcB/s1600/unb-gama.png"></a>
 </p>

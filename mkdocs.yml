@@ -19,8 +19,9 @@ nav:
      - Roadmap: planejamento/Roadmap.md
      - Processo de Design: planejamento/ProcessodeDesign.md
   #    - Metas de Usabilidade:
-  # - Story Board:
-  # - Guia de Estilo:
+  - Avaliação Heurística: avaliacao_heuristica/AvaliacaoHeuristica.md
+  - Story Board: story_board/StoryBoard.md
+  - Guia de Estilo: guia_de_estilo/GuiaDeEstilo.md
   # - Identificação de Necessidades:
   #   - Perfil do Usuário:
   #   - Análise de Tarefas:

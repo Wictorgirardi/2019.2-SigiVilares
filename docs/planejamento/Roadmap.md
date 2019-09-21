@@ -6,4 +6,4 @@
 
  ![Aha](https://i.imgur.com/yAnHm2p.png)
 
-Para ver mais detalhes e atualizações acesse esse [LINK](https://ihc-sigivilares.aha.io/bookmarks/gantt_charts/6739082201723833866)
+Para ver mais detalhes e atualizações acesse o [LINK](https://ihc-sigivilares.aha.io/bookmarks/gantt_charts/6739082201723833866)

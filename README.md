@@ -1,7 +1,7 @@
 
 # Sobre
 
-<div align="center"><img src= "https://i.imgur.com/hLaDDoo.png"/></div>
+<div align="center"><img src= "docs/images/home.png"/></div>
 
 Este repositório é destinado a aplicação [**Blog do Sigi Vilares**](https://www.sigivilares.com.br/) com o intuito de apredizagem sobre o conteúdo ministrado na disciplina de Interação Humano Computador na da Universidade de Brasília - Gama, durante o período 2019/2.
 

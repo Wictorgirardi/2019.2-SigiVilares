@@ -1,12 +1,14 @@
-# Início
+### Início
 
-<div style="text-align:center"><img src= "https://i.imgur.com/hLaDDoo.png"/></div>
+<div align="center"><img src= "docs/images/home.png"/></div>
 
 ---
 
-# Sobre
+### Sobre
 
-# Contribuidores
+ O Blog do Sigi Vilares é um portal de notícias do oeste da Bahia, com o intuito de divulgar acontecimentos locais e nacionais.
+
+### Contribuidores
 
 | NOME | GITHUB |
 |------|--------|

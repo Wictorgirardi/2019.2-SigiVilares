@@ -2,13 +2,13 @@ site_name: Sigi Vilares
 repo_name: '2019.2-SigiVilares'
 repo_url: 'https://github.com/Interacao-Humano-Computador/2019.2-SigiVilares'
 
-theme:
-  name: 'material'
-  language: 'pt'
+theme: windmill
 
-  palette:
-    primary: 'deep purple'
-    accent: 'deep purple'
+extra:
+  logo: docs/images/logo.png
+  article_nav_top: false
+  article_nav_bottom: false
+  history_buttons: true
 
 nav:
   - Início: index.md

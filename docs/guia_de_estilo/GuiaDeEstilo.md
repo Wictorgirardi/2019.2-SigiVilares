@@ -45,9 +45,9 @@ O site é todo feito em com as fontes Arial, Ubuntu e Helvetica com estilo norma
 
 ![fontes^[Fonte: Do_autor]](images-style/fontes.png)
 
-### Descrição do Guia de Estilo
+### **Descrição do Guia de Estilo**
 
-#### Legenda:
+**Legenda**:
 
 * D: Descrição.
 

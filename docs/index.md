@@ -1,6 +1,6 @@
 ### Início
 
-<div align="center"><img src= "docs/images/home.png"/></div>
+<div align="center"><img src= "images/home.png"/></div>
 
 ---
 

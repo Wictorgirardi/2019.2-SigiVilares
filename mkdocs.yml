@@ -2,13 +2,29 @@ site_name: Sigi Vilares
 repo_name: '2019.2-SigiVilares'
 repo_url: 'https://github.com/Interacao-Humano-Computador/2019.2-SigiVilares'
 
-theme: windmill
-
-extra:
-  logo: docs/images/logo.png
-  article_nav_top: false
-  article_nav_bottom: false
-  history_buttons: true
+theme:
+  name: 'material'
+  palette:
+    primary: 'black'
+    accent: 'red'
+  logo: 'images/logo.png'
+  favicon: 'images/favicon.ico'
+  font:
+    text: 'Muli'
+    code: 'sans-serif'
 
 nav:
   - Início: index.md
+  - Planejamento:
+     - Roadmap: planejamento/Roadmap.md
+    #  - Processo de Design:
+  #    - Metas de Usabilidade:
+  # - Story Board:
+  # - Guia de Estilo:
+  # - Identificação de Necessidades:
+  #   - Perfil do Usuário:
+  #   - Análise de Tarefas:
+  #   - Características da Plataforma:
+  #   - Princípios gerais de Projeto:
+  #   - Planejamento da Avaliação:
+  #   - Protótipo de Papel:

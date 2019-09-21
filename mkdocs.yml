@@ -17,7 +17,7 @@ nav:
   - Início: index.md
   - Planejamento:
      - Roadmap: planejamento/Roadmap.md
-    #  - Processo de Design:
+     - Processo de Design: planejamento/ProcessodeDesign.md
   #    - Metas de Usabilidade:
   # - Story Board:
   # - Guia de Estilo:

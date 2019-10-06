@@ -25,7 +25,7 @@ markdown_extensions:
 nav:
   - Início: index.md
   - Planejamento:
-    # - Heatmap: planejamento/Heatmap.md
+    - Heatmap: planejamento/Heatmap.md
     - Roadmap: planejamento/Roadmap.md
     - Metodologia: planejamento/Metodologia.md
     - Processo de Design: planejamento/ProcessodeDesign.md

@@ -22,3 +22,9 @@ Storyboard são organizadores gráficos tais como uma série de ilustrações ou
     **Autor:** Equipe </br>
     **Data:**  09 set 2019 </br>
     **Versão:** 0.3 </br>
+
+## Referências
+
+KLEMMER, Scott. **Storyboards, Paper Prototypes and Mockups**. 2º/2019. 22 slides. Material apresentado para a disciplina de Interação Humano Computador no curso de Engenharia de Software da UnB, FGA.
+
+Artificial Intelligence - All in One. **Lecture 10 — Storyboards, Paper Prototypes, and Mockups | HCI | Stanford University**. 2016. (12m45s). Disponível em: <https://youtu.be/z4glsttyxw8>. Acesso em: 09 setembro 2019.

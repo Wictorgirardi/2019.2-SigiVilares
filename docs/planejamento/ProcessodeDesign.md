@@ -10,3 +10,7 @@ O processo representado, consiste em três fases:
 * Análise de Requisitos;
 * Design, Avaliação e Desenvolvimento;
 * Instalação.
+
+## Referências
+
+BARBOSA. **Interação Humano-Computador, Capítulo 4 - Processos de Design de IHC**. 2º/2019. 21 páginas. Material apresentado para a disciplina de Interação Humano Computador no curso de Engenharia de Software da UnB, FGA.

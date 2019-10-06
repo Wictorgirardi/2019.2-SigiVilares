@@ -72,3 +72,9 @@ Dentre as principais falhas no site estão a falta de feedback com barras de _st
 ![sigivilares5^[Fonte: Do_autor]](images-style/sigivilares5.png)
 
 ![sigivilares9^[Fonte: Do_autor]](images-style/sigivilares9.png)
+
+## Referências
+
+BARBOSA. **Interação Humano-Computador, Capítulo 8 - Princípios e Diretrizes para o Design de IHC**. 2º/2019. 12 páginas. Material apresentado para a disciplina de Interação Humano Computador no curso de Engenharia de Software da UnB, FGA.
+
+SIGI VILARES. **Blog do SigiVilares**, 2010-2014. Disponível em: <https://www.sigivilares.com.br/>. Acesso em: 09 setembro 2019.

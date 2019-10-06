@@ -40,7 +40,7 @@
     
     
       
-        <title>Princípios Gerais de Projeto - Sigi Vilares</title>
+        <title>Metodologia - Sigi Vilares</title>
       
     
     
@@ -89,6 +89,10 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
+      <a href="#metodologia" tabindex="1" class="md-skip">
+        Ir para o conteúdo
+      </a>
+    
     
       <header class="md-header" data-md-component="header">
   <nav class="md-header-nav md-grid">
@@ -111,7 +115,7 @@
             </span>
             <span class="md-header-nav__topic">
               
-                Princípios Gerais de Projeto
+                Metodologia
               
             </span>
           
@@ -232,10 +236,12 @@
       
       
 
+  
 
-  <li class="md-nav__item md-nav__item--nested">
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" checked>
     
     <label class="md-nav__link" for="nav-2">
       Planejamento
@@ -253,7 +259,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../planejamento/Heatmap/" title="Heatmap" class="md-nav__link">
+    <a href="../Heatmap/" title="Heatmap" class="md-nav__link">
       Heatmap
     </a>
   </li>
@@ -265,7 +271,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../planejamento/Roadmap/" title="Roadmap" class="md-nav__link">
+    <a href="../Roadmap/" title="Roadmap" class="md-nav__link">
       Roadmap
     </a>
   </li>
@@ -275,11 +281,104 @@
           
           
 
+  
 
-  <li class="md-nav__item">
-    <a href="../../planejamento/Metodologia/" title="Metodologia" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Metodologia
+      </label>
+    
+    <a href="./" title="Metodologia" class="md-nav__link md-nav__link--active">
       Metodologia
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Índice</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#sprints" class="md-nav__link">
+    "Sprints"
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pareamentos" class="md-nav__link">
+    Pareamentos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#labels" class="md-nav__link">
+    Labels
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#revisao-pull-requests" class="md-nav__link">
+    Revisão / Pull Requests
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comunicacao" class="md-nav__link">
+    Comunicação
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#oficial" class="md-nav__link">
+    Oficial
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nao-oficial" class="md-nav__link">
+    Não Oficial
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#organizacao-no-drive" class="md-nav__link">
+    Organização no Drive
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
   </li>
 
         
@@ -289,7 +388,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../planejamento/ProcessodeDesign/" title="Processo de Design" class="md-nav__link">
+    <a href="../ProcessodeDesign/" title="Processo de Design" class="md-nav__link">
       Processo de Design
     </a>
   </li>
@@ -340,12 +439,10 @@
       
       
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+  <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6" checked>
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" type="checkbox" id="nav-6">
     
     <label class="md-nav__link" for="nav-6">
       Identificação de Necessidades
@@ -363,7 +460,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../PerfilDoUsuario/" title="Perfil do Usuário" class="md-nav__link">
+    <a href="../../identificacao_de_necessidades/PerfilDoUsuario/" title="Perfil do Usuário" class="md-nav__link">
       Perfil do Usuário
     </a>
   </li>
@@ -375,7 +472,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../AnaliseDeTarefas/" title="Análise de Tarefas" class="md-nav__link">
+    <a href="../../identificacao_de_necessidades/AnaliseDeTarefas/" title="Análise de Tarefas" class="md-nav__link">
       Análise de Tarefas
     </a>
   </li>
@@ -387,7 +484,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../CaracteristicasDaPlataforma/" title="Características da Plataforma" class="md-nav__link">
+    <a href="../../identificacao_de_necessidades/CaracteristicasDaPlataforma/" title="Características da Plataforma" class="md-nav__link">
       Características da Plataforma
     </a>
   </li>
@@ -397,18 +494,11 @@
           
           
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active">
-    
-    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-    
-    
-    <a href="./" title="Princípios Gerais de Projeto" class="md-nav__link md-nav__link--active">
+  <li class="md-nav__item">
+    <a href="../../identificacao_de_necessidades/PrincipiosGeraisDeProjeto/" title="Princípios Gerais de Projeto" class="md-nav__link">
       Princípios Gerais de Projeto
     </a>
-    
   </li>
 
         
@@ -418,7 +508,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../PlanejamentoDaAvaliacao/" title="Planejamento da Avaliação" class="md-nav__link">
+    <a href="../../identificacao_de_necessidades/PlanejamentoDaAvaliacao/" title="Planejamento da Avaliação" class="md-nav__link">
       Planejamento da Avaliação
     </a>
   </li>
@@ -430,7 +520,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../PrototipoDePapel/" title="Protótipo de Papel" class="md-nav__link">
+    <a href="../../identificacao_de_necessidades/PrototipoDePapel/" title="Protótipo de Papel" class="md-nav__link">
       Protótipo de Papel
     </a>
   </li>
@@ -448,17 +538,127 @@
               </div>
             
             
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Índice</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#sprints" class="md-nav__link">
+    "Sprints"
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pareamentos" class="md-nav__link">
+    Pareamentos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#labels" class="md-nav__link">
+    Labels
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#revisao-pull-requests" class="md-nav__link">
+    Revisão / Pull Requests
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comunicacao" class="md-nav__link">
+    Comunicação
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#oficial" class="md-nav__link">
+    Oficial
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nao-oficial" class="md-nav__link">
+    Não Oficial
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#organizacao-no-drive" class="md-nav__link">
+    Organização no Drive
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/Interacao-Humano-Computador/2019.2-SigiVilares/edit/master/docs/identificacao_de_necessidades/PrincipiosGeraisDeProjeto.md" title="Editar esta página" class="md-icon md-content__icon">&#xE3C9;</a>
+                  <a href="https://github.com/Interacao-Humano-Computador/2019.2-SigiVilares/edit/master/docs/planejamento/Metodologia.md" title="Editar esta página" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                  <h1>Princípios Gerais de Projeto</h1>
-                
-                
+                <h1 id="metodologia">Metodologia</h1>
+<h2 id="sprints">"Sprints"</h2>
+<p>O projeto adaptará o uso de "sprints". O projeto terá 5 "sprints" que serão os 5 pontos de controle da disciplina. Cada "sprint" tem um tamanho diferente, e ao final de cada uma serão feitas revisões e retrospectivas com o objetivo de analisar o que deu certo e o que deu errado.</p>
+<h2 id="pareamentos">Pareamentos</h2>
+<p><img alt="Imgur" src="https://i.imgur.com/rD2TCRb.png" /></p>
+<p>Como a equipe é formada por 5 integrantes, seguiremos uma esquemática difente do habitual. Todas as tarefas dos projetos serão feitas com 2 pares e 1 integrante revisará, com o objetivo de espalhar o conhecimento entre os membros do time. A cada "sprint" os pareamentos e o responsável pela revisão serão alterados.</p>
+<h2 id="labels">Labels</h2>
+<p><img alt="Imgur" src="https://i.imgur.com/HPpnQJx.png" /></p>
+<p>A fim de obter melhor rastreabilidade e organização serão utilizadas <em>labels</em> do github para separar as atividades.</p>
+<h2 id="revisao-pull-requests">Revisão / <em>Pull Requests</em></h2>
+<p>A fim de evitar erros e para evitar que nenhum artefato seja concluído sem a concordância de outros membros da equipe, todos os artefatos, que serão entregues através de <em>issues</em>, serão revisado por outro par através de <em>pull requests</em>.</p>
+<h2 id="comunicacao">Comunicação</h2>
+<h3 id="oficial">Oficial</h3>
+<ul>
+<li><em>Issues e Pull Requests</em></li>
+</ul>
+<p><img alt="Imgur" src="https://i.imgur.com/C3tlpV9.png" /></p>
+<p>Toda a comunicação oficial sobre o projeto deverá ser feito através do <em>github</em>. Dessa forma, a comunicação fica separada em cada atividade específica.</p>
+<h3 id="nao-oficial">Não Oficial</h3>
+<ul>
+<li>Telegram</li>
+</ul>
+<p><img alt="Imgur" src="https://i.imgur.com/uCiYBD9.jpg" /></p>
+<p>Como meio de comunicação rápida e não oficial ou para assuntos que não envolvem diretamente o projeto será utilizado um grupo no Telegram.</p>
+<h2 id="organizacao-no-drive">Organização no Drive</h2>
+<p><img alt="Imgur" src="https://i.imgur.com/8qcBqSx.png" /></p>
+<p>Como a equipe utilizará a metodologia de pareamentos, para facilitar a edição simultânea, a equipe utilizará o Drive para armazenamento e versionamentos dos arquivos do projeto e apresentações. Além disso, no Drive também tem um arquivo de horários disponíveis de cada integrante e calendários de provas, os pareamentos serão feitos/refeitos, por <em>sprint</em>, a partir desses documentos.</p>
                 
                   
                 
@@ -479,7 +679,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href="../CaracteristicasDaPlataforma/" title="Características da Plataforma" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../Roadmap/" title="Roadmap" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -488,19 +688,19 @@
                 <span class="md-footer-nav__direction">
                   Anterior
                 </span>
-                Características da Plataforma
+                Roadmap
               </span>
             </div>
           </a>
         
         
-          <a href="../PlanejamentoDaAvaliacao/" title="Planejamento da Avaliação" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../ProcessodeDesign/" title="Processo de Design" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
               <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
                   Próximo
                 </span>
-                Planejamento da Avaliação
+                Processo de Design
               </span>
             </div>
             <div class="md-flex__cell md-flex__cell--shrink">

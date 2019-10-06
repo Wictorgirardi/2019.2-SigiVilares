@@ -8,7 +8,7 @@ O projeto adaptará o uso de "sprints". O projeto terá 5 "sprints" que serão o
 
 ![Imgur](https://i.imgur.com/rD2TCRb.png)
 
-Todas as tarefas dos projetos serão feitas em pares, com o objetivo de espalhar o conhecimento entre os membros da equipe. A cada "sprint" os pareamentos serão alterados.
+Como a equipe é formada por 5 integrantes, seguiremos uma esquemática difente do habitual. Todas as tarefas dos projetos serão feitas com 2 pares e 1 integrante revisará, com o objetivo de espalhar o conhecimento entre os membros do time. A cada "sprint" os pareamentos e o responsável pela revisão serão alterados.
 
 ## Labels
 

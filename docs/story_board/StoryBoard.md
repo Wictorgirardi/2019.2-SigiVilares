@@ -4,24 +4,21 @@ Storyboard são organizadores gráficos tais como uma série de ilustrações ou
 
 ![SB1](https://i.imgur.com/EDGwpSy.jpg)
 
->**Autor:** João Vitor
->
->**Data:**  02 set 2019
->
->**Versão:** 0.1
+!!! info
+    **Autor:** João Vitor </br>
+    **Data:**  02 set 2019 </br>
+    **Versão:** 0.1 </br>
 
 ![SB2](https://i.imgur.com/X7cTDMe.jpg)
 
->**Autor:** João Vitor
->
->**Data:**  09 set 2019
->
->**Versão:** 0.2
+!!! info
+    **Autor:** João Vitor </br>
+    **Data:**  09 set 2019 </br>
+    **Versão:** 0.2 </br>
 
 ![SB3](https://imgur.com/cZrJLwe.jpg)
 
->**Autor:** Equipe
->
->**Data:**  09 set 2019
->
->**Versão:** 0.3
+!!! info
+    **Autor:** Equipe </br>
+    **Data:**  09 set 2019 </br>
+    **Versão:** 0.3 </br>

@@ -1,6 +1,6 @@
 # Introdução
 
-Uma proposta de questionário para avaliação do Perfil do Usuário foi contruida para fazer o levantamento dos dados de usabilidade da aplicação.
+Uma proposta de questionário para avaliação do perfil do usuário na qual foi contruida para fazer o levantamento dos dados de usabilidade da aplicação estudada.
 
 |   Dados Recolhidos em   |
 |-------------------------|
@@ -36,8 +36,9 @@ Uma proposta de questionário para avaliação do Perfil do Usuário foi contrui
 
 ![Q12](https://i.imgur.com/nju618q.png)
 
-# Análise e Resultado
+Questionário encontra-se disponível em: [LINK](https://forms.gle/5Nbs6FsJ8JbWPXLe6)
 
+# Análise e Resultado
 
 De acordo com os resultados obtidos com o questionário pode-se tirar algumas conclusões sobre o perfil do usuário. Por exemple, a idade da maioria das pessoas que responderam o questionário está entre os 18 aos 22 anos de idade e a metade de todos os usuários que responderam tem curso superior incompleto.
 Além disso, 58% das pessoas são do sexo masculino e 83% delas conhecem o blog do SigiVilares.
@@ -48,4 +49,4 @@ Das pessoas que acessam o SigiVilares  60% acessam com pouta frequência e 40% a
 
 Dentro dessa amostra, 90% dos usuários buscam notícias relacionadas a política, 80% buscam  notícias policiais, 30% buscam notícias sobre esporte. Além disso os que respoderam outras disseram que buscam notícias das cidades do oeste a bahia e notícias da região.
 
-Do mesmo modo, 80% dos usuários se incomodam com muitas propagandas indesejáveis e os 20% se incomodam com a organização do site. 
+Do mesmo modo, 80% dos usuários se incomodam com muitas propagandas indesejáveis e os 20% se incomodam com a organização do site.

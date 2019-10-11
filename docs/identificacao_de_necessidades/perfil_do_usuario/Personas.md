@@ -26,3 +26,7 @@ Alan é um jovem de 23 anos e estudante de arquitetura. Ele é natural de São D
 
 Como não está mais em sua cidade ele se ver em busca de informações e notícias na internet para saber o que está acontecendo em sua cidade e em sua região. Desta forma, alan foi ao blog do SigiVilares em busca de de novas notícias para se manter atualizado dos acontecimentos sobre política e crimes de sua cidade e do Oeste da Bahia.
 Após entrar no site alan vai em notícias e depois de fazer uma rolagem ele enconta diversas notícias com suas datas e descrições e imagens que podem se clicadas para abrir a notícia inteira.Porém ele se sente frustrado pois precisa descer bastante a barra de rolagem entre uma notícia e outra, pois entre as notícias há muita publicidade e a organização das notícias o deixa confuso.
+
+# Referências
+
+BARBOSA, Simone; SILVA, Bruno. Capítulo 6. Organização do Espaço de Problema. Interacao Humano Computador. Elsevier Editora LTDA., 2010. Paginação referente ao capítulo: 100 à 120. Material apresentado para a disciplina de Interacao Humano Computador no curso de Engenharia de Software da UnB, FGA.

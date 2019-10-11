@@ -50,3 +50,7 @@ Das pessoas que acessam o SigiVilares  60% acessam com pouta frequência e 40% a
 Dentro dessa amostra, 90% dos usuários buscam notícias relacionadas a política, 80% buscam  notícias policiais, 30% buscam notícias sobre esporte. Além disso os que respoderam outras disseram que buscam notícias das cidades do oeste a bahia e notícias da região.
 
 Do mesmo modo, 80% dos usuários se incomodam com muitas propagandas indesejáveis e os 20% se incomodam com a organização do site.
+
+# Referências
+
+DINIZ, Simone. Identificação de Necessidades dos Usuários e Requisitos de IHC, Capítulo 5. 2010. 31 slides. Material de apoio apresentado para a disciplina de Interacao Humano Computador no curso de Engenharia de Software da UnB, FGA.

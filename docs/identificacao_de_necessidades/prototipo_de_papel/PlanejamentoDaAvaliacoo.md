@@ -4,9 +4,9 @@ Esse documento tem o intuito de planejar os dados abstraidos de situações reai
 
 # Planejamento da Avaliação
 
-A partir da observação de uso da aplicação das experiências dos usuários ao interagir com o Blog do SigiVilares, será coletado os dados, com tafera de _vizualizar uma notícia qualquer_, no intuito de identificar e avaliar eventuais problemas na interação e na interface no website de notícias do SigiVilares.
+A partir da observação de uso da aplicação e das experiências dos usuários com o Blog do SigiVilares será coletado os dados, com tafera de _vizualizar uma notícia qualquer_, no intuito de identificar e avaliar eventuais problemas na interação e na interface no website de notícias do SigiVilares.
 
-Para acessar o protótipo de papel e a avaliação [CLIQUE AQUI](http://127.0.0.1:8000/identificacao_de_necessidades/prototipo_de_papel/PrototipoDePapel/)
+Para acessar o protótipo de papel e a avaliação [CLIQUE AQUI](https://interacao-humano-computador.github.io/2019.2-SigiVilares/identificacao_de_necessidades/prototipo_de_papel/PrototipoDePapel/)
 
 # Referências
 

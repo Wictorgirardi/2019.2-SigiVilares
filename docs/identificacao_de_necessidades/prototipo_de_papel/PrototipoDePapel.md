@@ -4,9 +4,15 @@ Um protótipo de baixa fidelidade visa definir de modo simples como seria a inte
 
 # Protótipo de Baixa Fidelidade
 
-# Avaliação
+## Buscar Notícias
 
-## Observação
+![BuscarNoticias](https://i.imgur.com/61XaaVd.gifv)
+
+## Buscar Notícias - Caminho Alternativo
+
+![BuscarNoticias2](https://i.imgur.com/2d49KMU.gifv)
+
+# Avaliação
 
 # Referências
 

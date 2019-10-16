@@ -16,6 +16,9 @@ A Análise Hierárquica de Tarefas tem como proposta entender as competências e
 
 O ponto de partida desta análise são os objetivos do usuário. A partir de um objetivo, as principais tarefas associadas ao alcance deste objetivo são identificadas.
 
+![HTAex1](images/exemplo_HTA.PNG)
+![HTAex2](images/exemplo1.PNG)
+
 - Tarefa: É qualquer parte do trabalho que precisa ser realizado
 
 - Objetivo: Representam o que o usuário quer realizar utilizando o sistema

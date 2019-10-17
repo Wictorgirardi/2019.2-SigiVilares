@@ -35,23 +35,19 @@ O ponto de partida desta análise são os objetivos do usuário. A partir de um 
 
 ## HTA1: Ver Notícias
 
-![HTA1](images/HTA1_Ver_Noticias.png)
+![HTA1](images/Noticias.png)
 
 ## HTA2: Acompanhar TV Sigi
 
-![HTA2](images/HTA2_Acompanhar_TV_Sigi.png)
+![HTA2](images/TVSigi.png)
 
-## HTA3: Ver Imagens
+## HTA3: Procurar Desaparecidos
 
-![HTA3](images/HTA3_Ver_Imagens.png)
+![HTA3](images/Desaparecidos.png)
 
-## HTA4: Procurar Desaparecidos
+## HTA4: Entrar em contado com Sigi Vilares
 
-![HTA4](images/HTA4_Procurar_Desaparecido.png)
-
-## HTA5: Entrar em contado com Sigi Vilares
-
-![HTA5](images/HTA5_Entrar_em_Contato.png)
+![HTA4](images/Contato.png)
 
 # Referências
 

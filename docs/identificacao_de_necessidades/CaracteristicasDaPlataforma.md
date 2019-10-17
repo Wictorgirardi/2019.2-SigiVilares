@@ -23,3 +23,7 @@ Há, porém, um comportamento inesperado quanto às notícias na zona de comuns 
 ## Temática
 
 Por se tratar de um site de notícias o tema da plataforma pode ser citado como informativo. O perfil vai tanto na parte de notícias quanto a parte de propagandas e divulgações.
+
+## Referências
+
+SIGI VILARES. **Blog do SigiVilares**, 2010-2014. Disponível em: <https://www.sigivilares.com.br/>. Acesso em: 09 setembro 2019.

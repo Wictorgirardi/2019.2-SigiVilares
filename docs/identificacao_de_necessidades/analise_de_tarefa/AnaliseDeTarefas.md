@@ -47,7 +47,7 @@ O ponto de partida desta análise são os objetivos do usuário. A partir de um 
 
 ## HTA4: Entrar em contado com Sigi Vilares
 
-![HTA4](images/Contato.png)
+![HTA4](images/contato.png)
 
 # Referências
 

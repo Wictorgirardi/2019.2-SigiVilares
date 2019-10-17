@@ -6,7 +6,9 @@ Um protótipo de baixa fidelidade visa definir de modo simples como seria a inte
 
 ## Ver Notícias
 
-[CLIQUE AQUI]() para acessar o o vídeo do protótipo
+Clique na imagem abaixo para poder acessar o vídeo do Protótipo de Papel.
+
+[![Imgur](https://i.imgur.com/0w32kpr.png)](https://youtu.be/SugVd9OFNt8)
 
 # Relatos e Resultados
 

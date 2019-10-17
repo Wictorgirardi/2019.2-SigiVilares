@@ -4,18 +4,19 @@ Um protótipo de baixa fidelidade visa definir de modo simples como seria a inte
 
 # Protótipo de Baixa Fidelidade
 
-## Buscar Notícias
+## Ver Notícias
 
-![BuscarNoticias](https://i.imgur.com/61XaaVd.gifv)
+[CLIQUE AQUI]() para acessar o o vídeo do protótipo
 
-## Buscar Notícias - Caminho Alternativo
+# Relatos e Resultados
 
-![BuscarNoticias2](https://i.imgur.com/2d49KMU.gifv)
+## Observação
 
-# Avaliação
+Por meio da observação foi possivel analisar a interação entre o uso da interface e um usuário e 2 avaliadores onde conseguimos abstrair:
 
-Por meio da observação foi possivel analisar a interação entre o uso da interface e usuário.
-Foi analisado a interação de dois usuário, a Letícias uma jovem de 19 anos, na qual se sentiu incomodada com a má organização das notícias e teve dificuldade em achar noticias de um determinado tema, o outro usuário não quiz se identificar e se incomodou com a poluição de anúncios do site.
+* Pop-up indesejáveis;
+* A interface era muito poluida com anúncios;
+* A interface ao carregar notícias com muita imagens ocorria lentidão.
 
 # Referências
 

@@ -14,3 +14,5 @@ Seguindo as Heurísticas de Usabilidade de Nielsen, foi avaliado os seguintes pr
 ## Referências
 
 MACIEL, Cristiano; NOGUEIRA, José; CIUFFO, Leandro; GARCIA, Ana. **Avaliação Heurística de Sítios na Web**. Disponível em: <https://aprender.ead.unb.br/pluginfile.php/706217/mod_resource/content/1/Artigo%20Av%20Heuri%CC%81stica%20ac1_55.pdf>. Acesso em: 09 setembro 2019.
+
+SIGI VILARES. **NN/g Nielsen Norman Group**, 1998-2019. Disponível em: <https://www.nngroup.com/articles/ten-usability-heuristics/>. Acesso em: 09 setembro 2019.

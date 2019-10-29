@@ -26,7 +26,7 @@ Há, porém, um comportamento inesperado quanto às notícias na zona de comuns 
 
 Por se tratar de um site de notícias o tema da plataforma pode ser citado como informativo. O perfil vai tanto na parte de notícias quanto a parte de propagandas e divulgações.
 
-### Plataformas Mais Utilizadas
+### Plataformas
 
 O público alvo do website segundo os levantamos do [questionário](https://interacao-humano-computador.github.io/2019.2-SigiVilares/identificacao_de_necessidades/perfil_do_usuario/Questionario/#fluxo-de-usuario-que-tem-relacao-com-a-aplicacao), foi possível identificar que os usuários acessam o Blog do SigiVilares pelo seus smartphones e computadores, para poder acompanha as notícias da região do oeste baiano.
 

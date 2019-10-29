@@ -31,18 +31,21 @@ nav:
     - Processo de Design: planejamento/ProcessodeDesign.md
     # - Ponto de Controle: planejamento/PontoDeControle.md
     # - Metas de Usabilidade: planejamento/MetasDeUsabilidade.md
-    # - Resultados: planejamento/Resultados.md
   - Avaliação Heurística: avaliacao_heuristica/AvaliacaoHeuristica.md
   - Story Board: story_board/StoryBoard.md
   - Guia de Estilo: guia_de_estilo/GuiaDeEstilo.md
-  - Identificação de Necessidades:
+  - Identificação de Necessidades de Uso:
     - Perfil do Usuário:
-      - Personas: identificacao_de_necessidades/perfil_do_usuario/Personas.md
       - Questionário: identificacao_de_necessidades/perfil_do_usuario/Questionario.md
+      - Personas: identificacao_de_necessidades/perfil_do_usuario/Personas.md
+      - Perfil: identificacao_de_necessidades/perfil_do_usuario/Perfil.md
     - Análise de Tarefas: identificacao_de_necessidades/analise_de_tarefa/AnaliseDeTarefas.md
     - Características da Plataforma: identificacao_de_necessidades/CaracteristicasDaPlataforma.md
     - Princípios Gerais de Projeto: identificacao_de_necessidades/PrincipiosGeraisDeProjeto.md
     - Protótipo de Papel:
-      - Planejamento da Avaliação: identificacao_de_necessidades/prototipo_de_papel/PlanejamentoDaAvaliacoo.md
+      - Planejamento da Avaliação: identificacao_de_necessidades/prototipo_de_papel/PlanejamentoDaAvaliacao.md
       - Prototipo de Baixa Fidelidade: identificacao_de_necessidades/prototipo_de_papel/PrototipoDePapel.md
-  # - Protótipo de Alta Fidelidade: ProtótipoDeAltaFidelidade.md
+  - Protótipo de Alta Fidelidade:
+    - Planejamento da Avaliação: prototipo_alta_fidelidade/PlanejamentoDaAvaliacao.md
+    - Protótipo de Alta Fidelidade: prototipo_alta_fidelidade/PrototipoAlto.md
+    - Resultados e Relatos: prototipo_alta_fidelidade/Resultados.md

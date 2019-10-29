@@ -4,11 +4,23 @@ Um protótipo de baixa fidelidade visa definir de modo simples como seria a inte
 
 # Protótipo de Baixa Fidelidade
 
+Clique no `Play` para acessar os vídeos das interações realizadas com base no Protótipo de Papel.
+
 ## Ver Notícias
 
-Clique na imagem abaixo para poder acessar o vídeo do Protótipo de Papel.
+[![PLAY](https://i.imgur.com/0Tn0kjh.jpg)](https://youtu.be/ciE7zC5ZL7k)
 
-[![Imgur](https://i.imgur.com/0w32kpr.png)](https://youtu.be/SugVd9OFNt8)
+## Acompanhar TV Sigi
+
+[![PLAY](https://i.imgur.com/0Tn0kjh.jpg)](https://youtu.be/Fg1Q94Pxjy8)
+
+## Procurar Desaparecidos
+
+[![PLAY](https://i.imgur.com/0Tn0kjh.jpg)](https://youtu.be/4_f2Ey3Kb_c)
+
+## Entrar em contado com Sigi Vilares
+
+[![PLAY](https://i.imgur.com/0Tn0kjh.jpg)](https://youtu.be/OKGAX4QLFmc)
 
 # Relatos e Resultados
 

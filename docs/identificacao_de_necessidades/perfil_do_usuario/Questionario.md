@@ -1,4 +1,6 @@
-# Introdução
+# Questionário
+
+## Introdução
 
 Uma proposta de questionário para avaliação do perfil do usuário na qual foi contruida para fazer o levantamento dos dados de usabilidade da aplicação estudada.
 
@@ -6,7 +8,7 @@ Uma proposta de questionário para avaliação do perfil do usuário na qual foi
 |-------------------------|
 | 06/10/2019 - 10/10/2019 |
 
-## Fluxo Demográﬁco
+### Fluxo Demográﬁco
 
 ![Q1](https://imgur.com/5Q98ULf.png)
 
@@ -16,7 +18,7 @@ Uma proposta de questionário para avaliação do perfil do usuário na qual foi
 
 ![Q4](https://imgur.com/OtCHYNb.png)
 
-## Fluxo de usuário que tem relação com a aplicação
+### Fluxo de Usuário que tem relação com a aplicação
 
 ![Q5](https://i.imgur.com/QBhTzmC.png)
 
@@ -28,7 +30,7 @@ Uma proposta de questionário para avaliação do perfil do usuário na qual foi
 
 ![Q9](https://i.imgur.com/3MdhyzC.png)
 
-## Fluxo de usuário que não tem relação com a aplicação
+### Fluxo de Usuário que não tem relação com a aplicação
 
 ![Q10](https://i.imgur.com/Bk6zbH5.png)
 
@@ -38,7 +40,7 @@ Uma proposta de questionário para avaliação do perfil do usuário na qual foi
 
 Questionário encontra-se disponível em: [LINK](https://forms.gle/5Nbs6FsJ8JbWPXLe6)
 
-# Análise e Resultado
+## Análise e Resultado
 
 De acordo com os resultados obtidos com o questionário pode-se tirar algumas conclusões sobre o perfil do usuário. Por exemple, a idade da maioria das pessoas que responderam o questionário está entre os 18 aos 22 anos de idade e a metade de todos os usuários que responderam tem curso superior incompleto.
 Além disso, 58% das pessoas são do sexo masculino e 83% delas conhecem o blog do SigiVilares.
@@ -51,6 +53,6 @@ Dentro dessa amostra, 90% dos usuários buscam notícias relacionadas a polític
 
 Do mesmo modo, 80% dos usuários se incomodam com muitas propagandas indesejáveis e os 20% se incomodam com a organização do site.
 
-# Referências
+## Referências
 
 DINIZ, Simone. Identificação de Necessidades dos Usuários e Requisitos de IHC, Capítulo 5. 2010. 31 slides. Material de apoio apresentado para a disciplina de Interacao Humano Computador no curso de Engenharia de Software da UnB, FGA.

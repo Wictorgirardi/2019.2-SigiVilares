@@ -1,3 +1,5 @@
+# Planejamento
+
 ## Introdução
 
 Esse documento tem o intuito de planejar os dados abstraidos de situações reais dos usuários para identificar problemas na interação e na interface que prejudiquem a experiência particular do mesmo durante o uso do sistema.

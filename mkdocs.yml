@@ -29,8 +29,8 @@ nav:
     - Roadmap: planejamento/Roadmap.md
     - Metodologia: planejamento/Metodologia.md
     - Processo de Design: planejamento/ProcessodeDesign.md
+    - Metas de Usabilidade: planejamento/MetasDeUsabilidade.md
     # - Ponto de Controle: planejamento/PontoDeControle.md
-    # - Metas de Usabilidade: planejamento/MetasDeUsabilidade.md
   - Avaliação Heurística: avaliacao_heuristica/AvaliacaoHeuristica.md
   - Story Board: story_board/StoryBoard.md
   - Guia de Estilo: guia_de_estilo/GuiaDeEstilo.md
@@ -47,5 +47,5 @@ nav:
       - Prototipo de Baixa Fidelidade: identificacao_de_necessidades/prototipo_de_papel/PrototipoDePapel.md
   - Protótipo de Alta Fidelidade:
     - Planejamento da Avaliação: prototipo_alta_fidelidade/PlanejamentoDaAvaliacao.md
-    - Protótipo de Alta Fidelidade: prototipo_alta_fidelidade/PrototipoAlto.md
+    - Protótipo: prototipo_alta_fidelidade/PrototipoAlto.md
     - Resultados e Relatos: prototipo_alta_fidelidade/Resultados.md

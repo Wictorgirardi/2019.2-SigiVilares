@@ -91,8 +91,6 @@ Será avaliado apectos cognitivos e funcionais relacionados à realização de t
 
 ### Relatos
 
-Texto do Relato ou Conclusão
-
 
 **Tafera01 - Ver Notícias - Fluxo Alternativo**
 
@@ -116,7 +114,9 @@ Texto do Relato ou Conclusão
 
 ### Relatos
 
-Texto do Relato ou Conclusão
+#### Texto do Relato ou Conclusão
+
+O usuário acessa o site de notícias [Blog do SigiVilares](https://www.sigivilares.com.br/), com o objetivo de ver notícias e consegue realizar a tarefa seguindo o fluxo de maneira tranquila, não é necessário login ou cadastro no site, o que facilita o acesso de usuários público alvo.
 
 **Tafera02 - Acompanhar TV Sigi**
 
@@ -140,7 +140,9 @@ Texto do Relato ou Conclusão
     
 ### Relatos
 
-Texto do Relato ou Conclusão
+#### Texto do Relato ou Conclusão
+
+O usuário acessa o site de notícias [Blog do SigiVilares](https://www.sigivilares.com.br/), com o objetivo de acompanhar à TV Sigi, para acompanhar telejornais da mídia local de notícias.
 
 **Tafera03 - Procurar Desaparecidos**
 
@@ -164,7 +166,9 @@ Texto do Relato ou Conclusão
     
 ### Relatos
 
-Texto do Relato ou Conclusão
+#### Texto do Relato ou Conclusão
+
+O usuário acessa o site de notícias [Blog do SigiVilares](https://www.sigivilares.com.br/), com o objetivo de acessar a seção de `Desaparecidos` para ter informações de pessoas ou animais de estimação desaparecidos na região.
 
 **Tafera04 - Entrar em contado com Sigi Vilares - Fluxo Principal**
 
@@ -188,8 +192,6 @@ Texto do Relato ou Conclusão
     
 ### Relatos
 
-Texto do Relato ou Conclusão
-
 **Tafera04 - Entrar em contado com Sigi Vilares - Fluxo Alternativo**
 
 | Avaliador | Avaliado |
@@ -212,7 +214,9 @@ Texto do Relato ou Conclusão
 
 ### Relatos
 
-Texto do Relato ou Conclusão
+#### Texto do Relato ou Conclusão
+
+O usuário acessa o site de notícias [Blog do SigiVilares](https://www.sigivilares.com.br/), com o objetivo de entrar em contato com o Sigi Vilares, proprietário e mantenedor do site. São aprensentados tanto o fluxo principal quanto o alternativo, o fluxo alternativo é absorvido mais fácilmente pelo usuário que compreende e memoriza de maneira mais simples.
 
 ## Referências
 

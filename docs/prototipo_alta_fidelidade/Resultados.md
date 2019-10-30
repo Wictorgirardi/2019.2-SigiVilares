@@ -1,4 +1,4 @@
-# Relatos e Resultados da Avaliação
+# Relatos dos Resultados da Avaliação
 
 ## Introdução
 
@@ -89,8 +89,6 @@ Será avaliado apectos cognitivos e funcionais relacionados à realização de t
 !!! note "O usuário memoriza o fluxo realizado?"
     Análise: Sim, o fluxo realizado é simples e o usuário é capaz de memorizar o fluxo com facilidade.
 
-### Relatos
-
 
 **Tafera01 - Ver Notícias - Fluxo Alternativo**
 
@@ -137,7 +135,7 @@ O usuário acessa o site de notícias [Blog do SigiVilares](https://www.sigivila
 
 !!! note "O usuário memoriza o fluxo realizado?"
     Análise: Sim, devido á simplicidade do fluxo este é facilmente memorizado e realizado novamente caso necessário.
-    
+
 ### Relatos
 
 #### Texto do Relato ou Conclusão
@@ -163,7 +161,7 @@ O usuário acessa o site de notícias [Blog do SigiVilares](https://www.sigivila
 
 !!! note "O usuário memoriza o fluxo realizado?"
     Análise: Sim, o usuário consegue memorizar o fluxo de tarefa tranquilamente.
-    
+
 ### Relatos
 
 #### Texto do Relato ou Conclusão
@@ -189,8 +187,6 @@ O usuário acessa o site de notícias [Blog do SigiVilares](https://www.sigivila
 
 !!! note "O usuário memoriza o fluxo realizado?"
     Análise: Sim, o usuário consegue memorizar o fluxo de maneira fácil e tranquila.
-    
-### Relatos
 
 **Tafera04 - Entrar em contado com Sigi Vilares - Fluxo Alternativo**
 

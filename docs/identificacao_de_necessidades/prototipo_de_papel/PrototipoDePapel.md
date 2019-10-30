@@ -6,7 +6,7 @@ Um protótipo de baixa fidelidade visa definir de modo simples como seria a inte
 
 ## Protótipo de Baixa Fidelidade
 
-Clique no `Play` para acessar os vídeos das interações realizadas com base no Protótipo de Papel.
+Clique nos " ▶ " para acessar os vídeos das interações realizadas no Protótipo de Papel.
 
 ### Ver Notícias
 
@@ -28,11 +28,13 @@ Clique no `Play` para acessar os vídeos das interações realizadas com base no
 
 ### Observação
 
-Por meio da observação foi possivel analisar a interação entre o uso da interface e um usuário e 2 avaliadores onde conseguimos abstrair:
+Por meio da observação foi possivel analisar a interação entre o uso da interface e um usuário e 2 avaliadores onde conseguimos abstrair informações de melhorias da plataforma como:
 
 * Pop-up indesejáveis;
+* Ineficiência em buscar notícias;
 * A interface era muito poluida com anúncios;
-* A interface ao carregar notícias com muita imagens ocorria lentidão.
+* A interfaces ao mal otimizadas;
+* Páginas com muita lentidão.
 
 ## Referências
 

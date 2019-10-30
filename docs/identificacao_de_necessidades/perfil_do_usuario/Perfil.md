@@ -1,13 +1,12 @@
 # Perfil do Usuário
 
-<div align="center"><img src= "https://icon-library.net/images/icon-profile/icon-profile-1.jpg"/></div>
+<center><img src="https://icon-library.net/images/icon-profile/icon-profile-1.jpg" alt="drawing" width="200"/></center>
 
-## Características Gerais:
-
-- Gosta de ficar informado com as notícias de sua Região;
-- [ ] à [ ] Anos;
-- Maioria pertence ao sexo [ ];
-- Possui o ensino [ ];
+!!! check "**Características Gerais**"
+    - Gosta de ficar informado com as notícias de sua Região;
+    - `18` à `+ 40` Anos;
+    - Maioria pertence ao sexo `Masculino`;
+    - Possui o ensino `Ensino Médio Concluído`.
 
 ## Referências
 

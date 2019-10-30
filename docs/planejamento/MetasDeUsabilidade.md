@@ -1,6 +1,6 @@
 # Metas de Usabilidade
 
-<div align="center"><img src= "https://miro.medium.com/max/690/1*UZQXM6CQXKb-59YxQEDFww.jpeg"/></div>
+<center><img src="https://miro.medium.com/max/690/1*UZQXM6CQXKb-59YxQEDFww.jpeg" alt="drawing" width="300"/></center>
 
 ## Introdução
 

@@ -8,10 +8,10 @@ Esse documento permite ao avaliador examinar uma solução de IHC para tentar an
 
 Será avaliado apectos cognitivos e funcionais relacionados à realização de tarefas aferidas pela aplicação seguindo o questionário proposto através das metas de usabilidade.
 
-- O usuário está realizado a tarefa de forma consciente?
-- O usuário irá aprender o fluxo de forma fácil?
-- O usuário vai conseguir objetivos desejado?
-- O usuário irá memorizar o fluxo realizado?
+- O usuário realiza a tarefa de forma consciente?
+- O usuário aprende o fluxo de forma fácil?
+- O usuário consegue o objetivo desejado?
+- O usuário memoriza o fluxo realizado?
 
 ## Tarefas Avaliadas
 
@@ -52,7 +52,7 @@ Será avaliado apectos cognitivos e funcionais relacionados à realização de t
 - Abrir Navegador
 - Acessar o site de notícias [Blog do SigiVilares](https://www.sigivilares.com.br/)
 - Acessar a aba de `Contato`
-    - Ver contatos relacionados ao Whatsapp
+    - Ver contatos relacionados ao "Whatsapp"
 
 #### Fluxo Alterativo:
 
@@ -77,18 +77,18 @@ Será avaliado apectos cognitivos e funcionais relacionados à realização de t
 
 ### Avaliação
 
-!!! note "O usuário está realizado a tarefa de forma consciente?"
-    Análise:
+!!! note "O usuário realiza a tarefa de forma consciente?"
+    Análise: O usuário consegue realizar a tarefa de forma consciente pois ao entrar na pagina inicial ele possui acesso imediato às notícias.
 
-!!! note "O usuário irá aprender o fluxo de forma fácil?"
-    Análise:
+!!! note "O usuário aprende o fluxo de forma fácil?"
+    Análise: O fluxo principal é facilmente aprendido, pois a tarefa realizada é apenas acessar o site e ler as notícias e caso deseje acessar uma notícia específica ao clickar na imagem referente à ela.
 
-!!! note "O usuário vai conseguir objetivos desejado?"
-    Análise:
+!!! note "O usuário consegue o objetivo desejado?"
+    Análise: O usuário consegue o objetivo desejado. Achar uma notícia na pagina principal e acessa-la é uma tarefa simples.
 
-!!! note "O usuário irá memorizar o fluxo realizado?"
-    Análise:
-    
+!!! note "O usuário memoriza o fluxo realizado?"
+    Análise: Sim, o fluxo realizado é simples e o usuário é capaz de memorizar o fluxo com facilidade.
+
 ### Relatos
 
 Texto do Relato ou Conclusão
@@ -102,18 +102,18 @@ Texto do Relato ou Conclusão
 
 ### Avaliação
 
-!!! note "O usuário está realizado a tarefa de forma consciente?"
-    Análise:
+!!! note "O usuário realiza a tarefa de forma consciente?"
+    Análise: Sim, o usuário consegue realizar a tarefa de forma consciente ao acessar o menu de navegação do site é tranquilo encontrar aa seção de notícias.
 
-!!! note "O usuário irá aprender o fluxo de forma fácil?"
-    Análise:
+!!! note "O usuário aprende o fluxo de forma fácil?"
+    Análise: Sim, o fluxo é simples para se encontrar a seção de notícias e para acessar uma notícia em específico segue-se o mesmo fluxo da tarefa anterior.
 
-!!! note "O usuário vai conseguir objetivos desejado?"
-    Análise:
+!!! note "O usuário consegue o objetivo desejado?"
+    Análise: Sim, o usuário consegue acessar a aba de notícias e navegar pelas notícias e acessar cada notícia que deseja.
 
-!!! note "O usuário irá memorizar o fluxo realizado?"
-    Análise:
-    
+!!! note "O usuário memoriza o fluxo realizado?"
+    Análise: Sim, devido a simplicidade do fluxo o fluxo é facilmente memorizado pelo usuário.
+
 ### Relatos
 
 Texto do Relato ou Conclusão
@@ -126,17 +126,17 @@ Texto do Relato ou Conclusão
 
 ### Avaliação
 
-!!! note "O usuário está realizado a tarefa de forma consciente?"
-    Análise:
+!!! note "O usuário realiza a tarefa de forma consciente?"
+    Análise: Sim, o usuário consegue realizar o fluxo de acessar e assistir à TV Sigi de forma consciente e tranquila.
 
-!!! note "O usuário irá aprender o fluxo de forma fácil?"
-    Análise:
+!!! note "O usuário aprende o fluxo de forma fácil?"
+    Análise: Sim, o fluxo de acesso e acompanhamento à TV Sigi é fácilmente compreendido pelo usuário.
 
-!!! note "O usuário vai conseguir objetivos desejado?"
-    Análise:
+!!! note "O usuário consegue o objetivo desejado?"
+    Análise: Sim, o usuário que deseja acessar e acompanhar à TV Sigi consegue realizar esta tarefa de maneira tranqila.
 
-!!! note "O usuário irá memorizar o fluxo realizado?"
-    Análise:
+!!! note "O usuário memoriza o fluxo realizado?"
+    Análise: Sim, devido á simplicidade do fluxo este é facilmente memorizado e realizado novamente caso necessário.
     
 ### Relatos
 
@@ -150,17 +150,17 @@ Texto do Relato ou Conclusão
 
 ### Avaliação
 
-!!! note "O usuário está realizado a tarefa de forma consciente?"
-    Análise:
+!!! note "O usuário realiza a tarefa de forma consciente?"
+    Análise: Sim, o usuário realiza conscientemente a tarefa de acesar a seção de desaparecidos, já que esta seção pode ser acessada diretamente pelo menu de navegação.
 
-!!! note "O usuário irá aprender o fluxo de forma fácil?"
-    Análise:
+!!! note "O usuário aprende o fluxo de forma fácil?"
+    Análise: Sim, o fluxo é facilmente aprendido devido á facilidade de acesso á esta seção.
 
-!!! note "O usuário vai conseguir objetivos desejado?"
-    Análise:
+!!! note "O usuário consegue o objetivo desejado?"
+    Análise: Sim, o acesso á seção de desaparecidos é realizada pelo usuário de maneira rápida e tranquila.
 
-!!! note "O usuário irá memorizar o fluxo realizado?"
-    Análise:
+!!! note "O usuário memoriza o fluxo realizado?"
+    Análise: Sim, o usuário consegue memorizar o fluxo de tarefa tranquilamente.
     
 ### Relatos
 
@@ -174,17 +174,17 @@ Texto do Relato ou Conclusão
 
 ### Avaliação
 
-!!! note "O usuário está realizado a tarefa de forma consciente?"
-    Análise:
+!!! note "O usuário realiza a tarefa de forma consciente?"
+    Análise: Sim, o usuário consegue realizar o contato conscientemente, já que existe uma seção destinada para tal tarefa.
 
-!!! note "O usuário irá aprender o fluxo de forma fácil?"
-    Análise:
+!!! note "O usuário aprende o fluxo de forma fácil?"
+    Análise: Sim, o usuário consegue aprender o fluxo de maneira fácil, mas gasta muito tempo na tarefa.
 
-!!! note "O usuário vai conseguir objetivos desejado?"
-    Análise:
+!!! note "O usuário consegue o objetivo desejado?"
+    Análise: Sim, o contato com o Sigi Vilares é realizado, mas não existe um feedback para que o usuário tenha certeza que a tarefa foi realizada.
 
-!!! note "O usuário irá memorizar o fluxo realizado?"
-    Análise:
+!!! note "O usuário memoriza o fluxo realizado?"
+    Análise: Sim, o usuário consegue memorizar o fluxo de maneira fácil e tranquila.
     
 ### Relatos
 
@@ -198,18 +198,18 @@ Texto do Relato ou Conclusão
 
 ### Avaliação
 
-!!! note "O usuário está realizado a tarefa de forma consciente?"
-    Análise:
+!!! note "O usuário realiza a tarefa de forma consciente?"
+    Análise: Sim, o contato realizado pelo "Whatsapp" do Sigi Vilares é feito de maneira consciente pelo usuário.
 
-!!! note "O usuário irá aprender o fluxo de forma fácil?"
-    Análise:
+!!! note "O usuário aprende o fluxo de forma fácil?"
+    Análise: Sim, o fluxo é aprendido de maneira fácil pelo usuário, entrar em contato com o Sigi Vilares por meio de "Whatsapp" é aprendido facilmente.
 
-!!! note "O usuário vai conseguir objetivos desejado?"
-    Análise:
+!!! note "O usuário consegue o objetivo desejado?"
+    Análise: Sim, o contato por meio de "Whatsapp" é realizado pelo usuário.
 
-!!! note "O usuário irá memorizar o fluxo realizado?"
-    Análise:
-    
+!!! note "O usuário memoriza o fluxo realizado?"
+    Análise: Sim, o fluxo é muito simples ao se entrar em contato com o Sigi Vilares por meio do ""Whatsapp""
+
 ### Relatos
 
 Texto do Relato ou Conclusão
